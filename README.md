@@ -1,6 +1,9 @@
 # batch-tesseract
 batch file to convert images into text
 only tested in windows 10
+only work if the image files didnt have space, you can replace the space with _ using Bulk Rename Utility
+make sure the language you select already copied into C:\Program Files\Tesseract-OCR\tessdata
+you can get test data from https://github.com/tesseract-ocr/tessdata
 
 how to use :
 1. download and install tesseract from https://github.com/UB-Mannheim/tesseract/wiki
